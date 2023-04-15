@@ -1,2 +1,4 @@
 # Leetcode-Solution
-Record what I have done
+* Sum of two numbers
+* Add two numbers
+* The longest string without repeating characters
